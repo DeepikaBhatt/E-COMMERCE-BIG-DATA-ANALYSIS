@@ -13,19 +13,24 @@ For this assignment, I have worked with a public clickstream dataset of a cosmet
 
 1) Copying the data set into the HDFS:
 
--- Launch an EMR cluster that utilizes the Hive services, and
+-- Launch an EMR cluster that utilizes the Hive services,
+
 -- Move the data from the S3 bucket into the HDFS 
 
 2) Creating the database and launching Hive queries on your EMR cluster:
 
 -- Create the structure of your database, 
+
 -- Use optimized techniques to run your queries as efficiently as possible
+
 -- Show the improvement of the performance after using optimization on any single query.
+
 -- Run Hive queries to answer the questions given below.
 
 3) Cleaning up
 
--- Drop your database, and
+-- Drop your database,
+
 -- Terminate your cluster 
 
 ### Data Analysis
